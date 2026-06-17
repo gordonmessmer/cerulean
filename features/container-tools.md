@@ -1,4 +1,5 @@
 ---
+layout: feature
 name: "Podman Desktop"
 status: "experimental"
 ---
