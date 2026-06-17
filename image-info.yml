@@ -1,0 +1,4 @@
+name: "AI Developer Desktop"
+slug: "ai-developer-desktop"
+description: "Atomic desktop optimized for AI development workflows"
+base: "Fedora Silverblue"
